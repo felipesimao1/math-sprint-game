@@ -25,4 +25,3 @@ Its best results were marked for the user to always try to exceed their limits.
 - Future Features
 I intend to put more types of calculations to make the game more difficult. Or, who knows, make the player choose which type of calculation they want to play.
 
-aa
