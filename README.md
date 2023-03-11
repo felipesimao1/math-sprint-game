@@ -8,7 +8,7 @@ The player will have 4 game options with 10, 25, 50 and 99 questions.
 ![1](https://user-images.githubusercontent.com/31260554/224490326-213a3851-68f8-4772-876c-7d9234efe6a0.jpg)
 
 
--After choosing an option, a list of sums appears and the user must indicate in the buttons below if the equation is right or wrong.
+- After choosing an option, a list of sums appears and the user must indicate in the buttons below if the equation is right or wrong.
 
 ![2](https://user-images.githubusercontent.com/31260554/224490340-b75769ab-00bb-4cc5-a8cc-9cb8bf1b568f.jpg)
 
