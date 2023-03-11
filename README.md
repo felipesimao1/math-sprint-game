@@ -2,6 +2,7 @@
 
 Math Sprint Game is a fun math game that will test your calculation speed. The object of the game is to answer as many questions as possible in the shortest possible time about multiplication.
 
+- Rules
 The player will have 4 game options with 10, 25, 50 and 99 questions.
 
 ![1](https://user-images.githubusercontent.com/31260554/224484533-dcd9078a-8460-483b-ac55-aae89835caa4.jpg)
