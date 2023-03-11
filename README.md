@@ -22,3 +22,5 @@ Its best results were marked for the user to always try to exceed their limits.
 
 ![4](https://user-images.githubusercontent.com/31260554/224485170-5b09fe63-2553-45ec-98a3-29919bf4ce69.jpg)
 
+- Future Features
+I intend to put more types of calculations to make the game more difficult. Or, who knows, make the player choose which type of calculation they want to play.
