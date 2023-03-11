@@ -1,4 +1,4 @@
-# Math Game
+# Sum Game
 
 Math Sprint Game is a fun math game that will test your calculation speed. The object of the game is to answer as many questions as possible in the shortest possible time about multiplication.
 
