@@ -18,3 +18,4 @@ After choosing an option, a list of multiplications appears and the user must in
 Its best results were marked for the user to always try to exceed their limits.
 
 ![4](https://user-images.githubusercontent.com/31260554/224485170-5b09fe63-2553-45ec-98a3-29919bf4ce69.jpg)
+

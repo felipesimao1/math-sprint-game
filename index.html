@@ -8,44 +8,45 @@
     <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-    <div class="game-container">
+    <div class="gameC">
 
         <div class="header">
-            <h1>Math Sprint Game</h1>
+            <h1>Sum Game</h1>
         </div>
-        <div class="card" id="splash-page">
-            <form id="start-form">
+
+        <div class="card" id="page1">
+            <form id="sForm">
                 <div class="selection-container">
-                    <div class="radio-container">
+                    <div class="rcount1">
                         <label for="value-10">10 Questions</label>
                         <input type="radio" name="questions" value="10" id="value-10">
                         <span class="best-score">
                             <span>Best Score</span>
-                            <span class="best-score-value"></span>
+                            <span class="bestsV"></span>
                         </span>
                     </div>
-                    <div class="radio-container">
+                    <div class="rcount1">
                         <label for="value-25">25 Questions</label>
                         <input type="radio" name="questions" value="25" id="value-25">
                         <span class="best-score">
                             <span>Best Score</span>
-                            <span class="best-score-value"></span>
+                            <span class="bestsV"></span>
                         </span>
                     </div>
-                    <div class="radio-container">
+                    <div class="rcount1">
                         <label for="value-50">50 Questions</label>
                         <input type="radio" name="questions" value="50" id="value-50">
                         <span class="best-score">
                             <span>Best Score</span>
-                            <span class="best-score-value"></span>
+                            <span class="bestsV"></span>
                         </span>
                     </div>
-                    <div class="radio-container">
+                    <div class="rcount1">
                         <label for="value-99">99 Questions</label>
                         <input type="radio" name="questions" value="99" id="value-99">
                         <span class="best-score">
                             <span>Best Score</span>
-                            <span class="best-score-value"></span>
+                            <span class="bestsV"></span>
                         </span>
                     </div>
                 </div>
@@ -54,26 +55,29 @@
                 </div>
             </form>
         </div>
-        <div class="card" id="countdown-page" hidden>
-            <h1 class="countdown">3</h1>
+
+        <div class="card" id="countdP" hidden>
+            <h1 class="countD">3</h1>
         </div>
-        <div class="card" id="game-page" hidden>
-            <div class="item-container"></div>
+
+        <div class="card" id="gamePage" hidden>
+
+            <div class="intem-Cont"></div>
             <div class="item-footer">
                 <button class="wrong" onclick="select(false)">Wrong</button>
                 <button class="right" onclick="select(true)">Right</button>
             </div>
         </div>        
-        <div class="card" id="score-page" hidden>
 
+        <div class="card" id="scorePage" hidden>
             <div class="score-container">
                 <h1 class="title">Your Time</h1>
-                <h1 class="final-time"></h1>
-                <h1 class="base-time"></h1>
-                <h1 class="penalty-time"></h1>
+                <h1 class="finaltime1"></h1>
+                <h1 class="basisTime"></h1>
+                <h1 class="ptime"></h1>
             </div>
             <div class="score-footer">
-                <button class="play-again" onclick="playAgain()" hidden>Play Again</button>
+                <button class="pAgain" onclick="playAgain()" hidden>Play Again</button>
             </div>
         </div>
 
